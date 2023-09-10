@@ -1,3 +1,4 @@
 # Karan
 This is my first Git repository
-Author- Karan Sharma
+<br>
+Author- <b>Karan Sharma</b>
